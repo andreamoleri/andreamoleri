@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreamoleri
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Python & SQL 
-- 💞️ I’m looking for advice as I'm new to this
+- 👀 I’m interested in Software Architecture & Machine Learning
+- 🌱 I’m currently Studying Computer Science in Milano-Bicocca
+- 💞️ I’m passionate about Queue Theory and Crowd Management
 - 📫 Reach me at andreamoleri@gmail.com
 
 <!---
