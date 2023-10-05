@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @andreamoleri
-- 👀 I’m interested in Software Architecture & Machine Learning
-- 🌱 I’m currently Studying Computer Science in Milano-Bicocca
-- 💞️ I’m passionate about Queue Theory and Crowd Management
-- 📫 Reach me at andreamoleri@gmail.com
+```swift
+import Cocoa
 
-<!---
-andreamoleri/andreamoleri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class SoftwareEngineer {
+    let name = "Andrea Moleri"
+    let role = "Software Engineer"
+    let spokenLanguages = ["🇮🇹", "🇺🇸", "🇪🇸", "🇩🇪"]
+    let areasOfInterest = ["Queue Theory", "Large Scale Crowd Management"]
+    let specializations = ["Machine Learning", "iOS Development", "Software Architecture"]
+    
+    func greetings() {
+        print("Hi there, thanks for dropping by! Hope you find something intersting")
+    }
+}
+
+let me = SoftwareEngineer()
+me.greetings()
+```
