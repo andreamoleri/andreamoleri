@@ -9,7 +9,7 @@ class SoftwareEngineer {
     let specializations = ["Machine Learning", "iOS Development", "Software Architecture"]
     
     func greetings() {
-        print("Hi there, thanks for dropping by! Hope you find something intersting")
+        print("Hi there, thanks for dropping by! Hope you find something interesting")
     }
 }
 
